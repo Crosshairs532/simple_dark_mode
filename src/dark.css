@@ -1,0 +1,35 @@
+.card {
+    width: 300px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.dark {
+    background-color: black;
+    color: white;
+    width: 300px;
+
+}
+
+.light {
+    background-color: white;
+    color: black;
+    width: 300px;
+
+}
+
+.dark_button {
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+    padding: 8px;
+    margin-top: 10px;
+}
+
+.light_button {
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    padding: 8px;
+    margin-top: 10px;
+}
